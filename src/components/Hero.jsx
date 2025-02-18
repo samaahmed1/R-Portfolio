@@ -2,7 +2,7 @@ import ButtonDark from "./ButtonDark";
 
 function Hero() {
   return (
-    <section className="py-14 bg-[#DEE2E6]">
+    <section className="pt-14 bg-[#DEE2E6]">
       <div className="container px-5 flex justify-center md:justify-between items-center gap-7 md:gap-0 flex-wrap mx-auto">
         <div className="col text-center md:text-start">
           <h1 className="text-[#212529] text-4xl md:text-6xl font-bold">
