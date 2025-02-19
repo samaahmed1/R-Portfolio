@@ -13,7 +13,6 @@ function About() {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin tristique elit nec malesuada tincidunt. Pellentesque lobortis <br /> metus quis ipsum mattis, vitae laoreet est posuere.
             Mauris bibendum eros massa, sit amet tempor sem lobortis non.
           </p>
-
           <ButtonDark content="Hire Me" />
           <ButtonWhite content="View CV" className="m-2" />
         </div>
